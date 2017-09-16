@@ -1,0 +1,5 @@
+M: Bonjour Monsieur. Comment allez-vous?
+R: Je vais très bien merci, et vous Madame?
+M: Très bien aussi. Merci.
+R: Au revoir Madame.
+M: Au revoir Monsieur et bonne journée.
