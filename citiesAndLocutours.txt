@@ -1,0 +1,16 @@
+Cities:
+
+Abidjan AixMarseille AveyronnaisAParis Bamako Biarritz Brecey Brunoy BurkinaFaso Cameroun Chlef Dijon Domfrontais Douzens Gembloux Geneve Grenoble IleDeLaReunion Lacaune Liege Lyon MarseilleCentreVille Nantes Neuchatel Nyon Ogeviller ParisCentreVille PeaceRiver PuteauxCourbevoie RCABangui Roanne Rodez Saguenay SallesCuran SenegalDakar Toulouse Tournai TroisRivieres UniversiteLavalQuebec Vendee
+
+##########
+
+Locutours:
+
+
+1. abidjan
+ciaie1 ciapa1 ciaak1 ciafk1 ciaeo1 ciatk1 ciasf1 ciafo1 ciana1 ciaeo2 ciank1 ciasb1 ciasn1 ciavd1 
+
+2. AixMarseille
+13baa1 13bfa1 13bpa1 13bsa1 13brp2 13brp1 13bjc1 13bma1
+
+
