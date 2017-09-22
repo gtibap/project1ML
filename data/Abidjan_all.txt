@@ -1,0 +1,600 @@
+
+guidedConversations
+
+newConversation
+CIAIE1: Bon, euh, je, je suis secrétaire, de formation.
+CIAIE1: Et j'ai exercé, en tant que secrétaire de direction,
+CIAIE1: depuis, euh, soixante-quinze jusqu'à maintenant.
+CIAIE1: C'est un centre de perfectionnement permanent,
+CIAIE1: qui, se trouve à Treichville. 
+CIAIE1: Ensuite, euh, comme fonctionnaire, à la Mutuelle Générale des Fonctionnaires, au Plateau.
+CIAIE1: Et, maintenant, à Yarani.
+CIAIE1: (talons qui passent) Secrétaire <E2: Secrétaire.>.
+CIAIE1: (rires). Mariée. (rires) <E2: OK.>.
+CIAIE1: Oui, quatre.
+E2: Euh, ils sont en âge de, euh, scolarisation? Il faut nous dire un peu leur âge et puis, euh, leur, <CIAIE1: Euh.> niveau d'études, tout ça.
+CIAIE1: Hum. L'aînée, a, vingt-neuf ans.
+CIAIE1: Elle a, le niveau, enfin, le niveau Terminale et elle a fait trois ans de formation en grande école.
+CIAIE1: Et, actuellement elle travaille (talons qui passent) .
+CIAIE1: Il travaille, euh, dans une banque.
+CIAIE1: Et, il a, après le bac, il a fait aussi trois ans de formation.
+E2: Mais c'est lequel ? <CIAIE1: l'agni.> L'agni. <CIAIE1: Oui.>
+E2: D'Ayébo. <CIAIE1: Hum (oui)> Euh, donc, de quelle ethnie, donc? A/? <CIAIE1: Agni.> Agni. OK. Sa profession?
+E2: OK. Euh, vos activités culturelles, par exemple, vos loisirs, quand vous voulez vous amuser? <CIAIE1: Hum.> Qu'est-ce que vous faites ? <CIAIE1: (rires).>
+CIAIE1: Bon, en général, euh, quand on veut s'amuser, quelquefois on va à la plage, hein. 
+
+newConversation
+CIAPA1: Bon, de la naissance à, en soixante-quatorze, j'étais à Adjamé,
+CIAPA1: Puis de soixante-quatorze en, mille neuf cent quatre-vingt-dix-neuf, je crois, j'étais, euh, à Blokauss.
+CIAPA1: Après, je suis allée à, Tanda.
+CIAPA1: De, (silence) mille neuf cent quatre-vingt-dix-neuf, je crois (silence)
+CIAPA1: Enfin, j'ai fait quatre ans à T/ Tanda, et puis quatre ans à Toumodi, et puis je suis revenue à Abidjan.
+CIAPA1: En mille neuf cent quatre-vint-dix-sept.
+E2: En mille neuf cent quatre-vint-dix-sept. <CIAPA1: Hum hum (oui).>
+E2: Donc depuis mille neuf cent quatre-vint-dix-sept vous êtes. <CIAPA1: Vint-dix-sept je suis à Abidjan.> OK.
+E2: à Abidjan. <CIAPA1: Hum hum (oui).> Donc, à Abidjan, vous habitez actuellement, dans quel <CIAPA1: A Blokauss.> à Blokauss. OK.
+CIAPA1: J'ai toujours été médecin (rires) <E2: OK.>
+E2: Juste après vos études, euh, vous étiez médecin. <CIAPA1: Hum (oui).> OK.
+CIAPA1: Je suis célibataire. <E2: Célibataire.>
+E2: Donc les études de médecine, <CIAPA1: Hum (oui).> à, à l'université <CIAPA1: Hum (oui).>.Quelles sont les langues que vous parlez?
+E2: A part l'ébrié aussi, il n'y a pas d'autres langues que vous parlez, <CIAPA1: Non.> dans lesquelles vous pouvez vous exprimer? <CIAPA1: Non.>
+E2: La Capacité. <CIAPA1: Hum hum (oui).> Et les études de comptabilité, c'était, euh (inaudible) <CIAPA1: Je sais pas.> Vous savez pas <CIAPA1: Je sais pas.>
+E2: Et, maintenant, on passe à votre mère. <CIAPA1: Ma mère.> Son année de naissance, l'âge (inaudible). <CIAPA1: Hum (étonnement).> (rires).
+E2: Son lieu d'origine? <CIAPA1: Blockauss.> Blockauss aussi. <CIAPA1: (rires)> OK (rires).
+E2: Elle a eu à faire des études? <CIAPA1: Non.> Jamais? <CIAPA1: Elle n'est pas allée à l'école.> OK.
+E2: Vous leur rendez visite? Ils viennent chez vous? <CIAPA1: Oui, oui, enfin.> Vous participez un peu à toutes leur cérémonies <CIAPA1: Oui.>.
+E2: OK. Et, il n'y a pas de. Gé/ généralement, dans les quartiers on a des comités, des, des associations? <CIAPA1: Des associations.> Est-ce que il y en, il y en a dans votre quartier? Est-ce que?
+
+newConversation
+CIAAK1: Je suis née le 24, quatrième mois quatre-vingt quatre.
+CIAAK1: Je suis née à Bouaké.
+CIAAK1: Je suis née à la maternité de Bouaké.
+CIAAK1: (hésitations). 
+E2: C'est quel quartier? <CIAAK1: (hésitations). Ca je sais pas.> Tu sais pas? <CIAAK1: Hum.>
+E2: Euh, où est-ce que tu as habité jusqu'à aujourd'hui depuis ton, ta tendre enfance, depuis que tu es encore toute jeune?  <CIAAK1: D'abord.> Jusqu'à aujourd'hui? Oui?
+CIAAK1: J'ai habité Bouaké, puis, je suis allée à Daloa.
+E2: Ca, c'est de quelle année à quelle année? <CIAAK1:  D'accord.> Nous dire.
+CIAAK1: D'accord. <E2: (inaudible)> Bon, de Bouaké, depuis ma naissance,
+CIAAK1: jusqu'en quatre-vingt-neuf,
+CIAAK1: j'étais à Bouaké.
+CIAAK1: Et puis en quatre-vingt-dix,
+CIAAK1: je suis allée à Yamoussoukro.
+CIAAK1: J'ai fréquenté là-bas jusqu'au C/
+CIAAK1: CM1, hein, jusqu'au CE1.
+CIAAK1: Et, hum, je suis allée à Daloa,
+CIAAK1: continuer
+E2: Passablement ? (voix extérieures) OK. Et puis, euh, tu parles aussi <CIAAK1: Hum. >, le français <CIAAK1: Hum. >. 
+E2: Mais, elle, elle a fait quand même des études? <CIAAK1: Hum hum (oui).> Mais tu ne sais pas jusqu'à quel niveau elle s'est arrêtée? <CIAAK1: Hum (non).>  Et, elle, quelles langues elle parlait aussi?
+CIAAK1: Bon, après, comme ils ont vu, bon, j'étais gênée, je savais pas quoi dire. (rires).\
+
+newConversation
+CIAFK1: Vingt-deux juin mille neuf cent soixante-quatre.
+CIAFK1: Bouaké. Côte d'Ivoire.
+CIAFK1: Bon, de, euh, j'allais dire de zéro an, hein, de (rires), euh, depuis la nassance jusque, euh, jusqu'à l'âge de dix-huit, dix-neuf ans, j'ai habité Bouaké.
+CIAFK1: A partir de dix-huit, dix-neuf ans, je suis venu à Abidjan pour les études, euh, universitaires.
+CIAFK1: Et j'ai, vécu à Abidjan jusqu'en mille neuf cent quatre-vingt-euh, treize.
+CIAFK1: Et je suis allé à, Dabou, pour sept mois.
+CIAFK1: Puis, je suis revenu à Abidjan pour, euh, deux ans à peu près.
+CIAFK1: Et je suis reparti à Yamoussoukro pour y vivre pendant, quatre ans
+CIAFK1: Et je suis revenu à Abidjan, où je suis jusqu'à présent.
+E2: Euh, votre père, euh, les infor/, euh, les informations que vous allez nous donner maintenant, c'est, concernent votre père. <CIAFK1: Oui.> Son année de naissance?
+CIAFK1: Il est né en mille neuf cent trente-quatre.
+CIAFK1: Il est de Béoumi, sous-préfect/. Euh, Béoumi qui est dans la, la Région du Centre.
+CIAFK1: Il est, professeur de français à la retraite.
+CIAFK1: Euh, ses études. Ca, j'allais dire, il fallait qu'on lui demande, hein, c'est. (rires).
+CIAFK1: Bon, je sais qu'il a.
+E2: Que vous êtes marié. <CIAFK1: (rires).> Je vous remercie (??) pour la précision. <CIAFK1: Oui, oui.> Euh, votre épouse, son lieu d'origine?
+CIAFK1: Euh, (?) second cycle, Bac, ensuite elle a fait C.B.G.
+CIAFK1: Après C.B.G., elle est allée à l'Ecole Vétérinaire de Lyon,
+E2: OK. Bon, donc, euh, nous y sommes. On peut parler en même temps de votre scolarité. <CIAFK1: Oui.> Vos bons souvenirs comme vos mauvais souvenirs. Ou bien vos matières préférées, euh. <CIAFK1: Ah.>
+E2: Dans une villa. <CIAFK1: Hum (oui).> (inaudible) Euh, votre relation avec votre voisinage. On voudrait savoir un peu votre <CIAFK1: Bon,>.
+
+newConversation
+CIAEO1: Ils sont à Abobo-baoulé.
+CIAEO1: 
+CIAEO1: Hum. De mille neuf cent. Bon, en quatre-vingt huit, j'ai fait l'école maternelle, première section. (rires)
+CIAEO1: (rires) Quatre-vingt neuf, deuxième section (???), puis en quatre-vingt dix, j'ai fait le CP1.
+CIAEO1: Quatre-vingt-douze, (hésitation) quatre-vingt-onze, il y une an/ il y une année blanche.
+CIAEO1: Comme les étudiants grévaient, <E1: Ah, oui.> donc, on est pas allé à l'école.
+CIAEO1: Et puis maintenant en quatre-vingt-douze, je suis allée au CP2.
+CIAEO1: Puis en qua/ je crois, en quatre-vingt-seize, j'ai repris la classe de CM2. Non, en quatre-vingt/ quatre-vingt-seize, j'ai repris la classe de CM2. 
+CIAEO1: En quatre-vingt-dix-sept, j'ai eu mon entrée en sixième. <E1: Ah, oui.>
+CIAEO1: Puis, en deux-mille, deux-mille-un, en deux-mille-un, j'ai eu mon BEPC.
+CIAEO1: Et puis, j'ai suivi une formation d'auxiliaire en pharmacie.
+CIAEO1: Puis, maintenant, en deux-mille-trois, je suis venue à Yarani.
+CIAEO1: Ca a duré un an, et puis (puis) je suis arrivée chez les religieuses.
+CIAEO1: J'ai fait, un stage. <E1: D'accord.>
+CIAEO1: (Haha oui) Je parle l'ébrié, je parle le wobè,
+CIAEO1: je parle un peu l'ahizi. (rires contenus)
+CIAEO1: Hum. Bon, bon, l'ébrié comme, on a, nous tous nous sommes nés, dans un, dans, chez les Ebrié,
+CIAEO1: dans un village ébrié, donc, on s'est, on s'est familiarisé beaucoup.
+CIAEO1: Donc, on a, on a appris la langue.
+E1: D'accord. Donc, actuellement, <CIAEO1: (inaudible)> il exerce cette profession là? <CIAEO1: Oui.>
+
+newConversation
+CIATK1G: Bon, euh, j'ai été d'abord,
+CIATK1G: après les études, donc, j'ai enseigné,
+CIATK1G: euh, l'espagnol d'abord, qui était la première matière.
+CIATK1G: Prof d'espagnol. Ensuite, euh, prof de français
+CIATK1G: Et, euh, disons, de façon, en free-lance, j'étais interprète traducteur,
+CIATK1G: euh, de conférence.
+CIATK1G: Donc, euh, j'ai eu le privilège même de traduire la reine Sofia d'Espagne,
+CIATK1G: quand elle était ici à l'Hôtel Ivoire.
+CIATK1G: Et puis en, après, le Premier Ministre Kablan Dunkan, euh, bon, euh, le f/, le français vers l'espagnol.
+CIATK1G: Avec la reine, c'était de l'espagnol vers le français.
+CIATK1G: Et donc, euh, vous voyez là, ça c'était au cours d'une, euh, cérémonie où j'étais interprète et c'est à la pause café,
+CIATK1G: C'était l'Internationale Socialiste, en quatre-vingt dix-huit.
+CIATK1G: A l'Hôtel du Golfe avec, euh, n/ qui était à l'époque le Président du F.P.I.
+CIATK1G: Et donc, voilà.
+CIATK1G: Donc, interprète traducteur à (???).
+CIATK1G: Je fais de la traduction, bon, ça, je le fais vraiment de façon continue.
+CIATK1G: Et avec, euh, le ca/, le cabinet Symposia Consult (incertain) où je suis fiché comme interprète traducteur.
+CIATK1G: En cas, ils ont des conférences, on me fait appel. Avec la guerre, c'est arrêté.
+CIATK1G: La dernière conférence à laquelle je devais participer, c'était à, au Centre Culturel Français,
+CIATK1G: Actuelle, je suis, donc, le gérant de KT Communication.
+
+newConversation
+CIASF1: Bon, donc, l'école primaire à Man,
+CIASF1: le secondaire au lycée de Bouaké,
+CIASF1: le supérieur, deux ans à l'université d'Abidjan,
+CIASF1: un an à l'université de Dakar,
+CIASF1: quatre ans à l'université de Nantes,
+CIASF1: un an à Rennes,
+CIASF1: et les autres années à Paris. <E2: OK.>
+CIASF1: (toux) Disons, je parle ma langue maternelle, <E2: C'est-à-dire?> qui est le toura.
+CIASF1: Le toura, c'est un sous-groupe dan. Bon, je parle le français.
+CIASF1: Bon, je lis couramment l'anglais, mais, je ne le parle pas.
+CIASF1: Et puis j'ai, et puis j'ai fait l'espagnol.
+CIASF1: Mon père il est né en mille neuf cent cinq. 
+CIASF1: (bruits de fond) Son lieu d'origine ? Tegbwe. Son village ? <E2: Oui oui.> Il est de Gbehi comme moi.  Ouais.
+CIASF1: Ben il est, agriculteur.
+CIASF1: Ouais, jusqu'au niveau de C/ C/ CE1 hein, dans les années, dans les années vingt.
+CIASF1: Ben, il parle le, le toura, comme moi, et puis le français.
+CIASF1: Bon, ma mère est décédée en mille neuf cent/, mille neuf cent soixante, donc, euh. 
+E2: Son année de naissance, vous ne l'avez pas eue ? <CIASF1: Non, non j'ai pas.>
+CIASF1 : Elle est de Gbewe à, quatre kilomètres de Gbehi.
+E2: Parce que dans certains milieux, c'était le port du symbole. <CIASF1: Ah, non.> Quand on parle sa langue à l'école on vous fais/ mettez au cou <CIASF1: Non, non, non.>
+
+newConversation
+E1: Bon, maintenant, sur les langues. Alors quelles langues tu peux parler?
+CIAFO1G: Bon.
+CIAFO1G: En principe, ici, c'est la langue maternelle qu'on parle.
+CIAFO1G: Mais, ma maman et mon papa sont de la même eth/ethnie.
+CIAFO1G: C'est abidji. Donc euh,
+CIAFO1G: je devrais comprendre l'abidji.
+CIAFO1G: Mais bizarrement, chez nous, les trois premiers comprennent l'abidji et le parlent, les trois derniers ne comprennent rien.
+CIAFO1G: C'est-à-dire Edwige, Yannick et moi.
+CIAFO1G: Nous, on comprend pas l'abidji.
+CIAFO1G: Mais du fait j'ai fait deux ans à Bouaké. Bon, Bouaké, c'est une région baoulé, donc,
+CIAFO1G: je parle un peu, je comprends un peu le baoulé <E1: Ah oui.>.
+CIAFO1G: Mais l'abidji <E1: Rien.> rien.
+E1: Et comment ça se fait? Peut-être les parents n'ont pas fait, euh, l'effort d'apprendre aux enfants ou quoi?
+CIAFO1G: Les trois premiers ont eu l'habitude d'aller au village, très souvent.
+CIAFO1G: Et ma grand mère, la maman de ma maman, euh, était plus proche <E1: C'est ça.>.
+CIAFO1G: Parce que quand maman accouchait, c'est la grand mère qui venait, là chaque fois elle parlait.
+CIAFO1G: Bon, nous à notre tour maintenant bon.
+CIAFO1G: On leur demande toujours comment ça se fait, ils n'ont jamais pu nous expliquer véritablement ce qui s'est passé.
+CIAFO1G: Et, c'est, les trois premiers comprennent, les trois derniers, ils comprennent pas.
+CIAFO1G: Comme moi je tenais à comprendre au moins une langue, quand je suis allé à Bouaké, bon,
+
+newConversation
+E1: Votre parenté avec Espé, c'est quoi? Vous êtes frère et soeur?
+CIANA1G: Non, nous ne sommes pas frère et soeur, ça fait que, nous nous connaissons depuis à peine, euh,
+CIANA1G: ça fait maintenant neuf ans que nous nous connaissons <E1: Ah.>
+CIANA1G: Parce que avant, on habitait dans le même quartier, à Abobo.
+CIANA1G: Et, c'est en vacances on se croisait.
+CIANA1G: Même après, quand ils ont déménagé, on est allé se retrouver encore,
+CIANA1G: dans un autre quartier d'Abobo <E1: D'accord.>.
+CIANA1G: Donc ça fait qu'on a gardé
+CIANA1G: des relations, vraiment, comme des frères et soeurs en fait.
+E1: Hum hum. Et vos familles ne sont pas parentées? 
+CIANA1G: Non, pas du tout.
+E1: Ah, d'accord. Bon, et dites-moi, vous êtes né à Ferké <CIANA1G: Oui.>. Et est-ce que vous pouvez nous dire quels sont, où vous avez habité,
+E1: depuis votre naissance jusqu'à aujourd'hui?
+E1: A chaque fois, en disant le nombre d'années, ou bien l'année (inaudible) bon.
+E1: S/si vous vous rappelez, hein.
+CIANA1G: Bon, 
+CIANA1G: dès ma naissance, nous étions à Ferké.
+CIANA1G: (silence) Mais, (silence)
+CIANA1G: J'ai fait, bon la classe de terminale parce que, ça n'a pas marché.
+(silence)
+
+newConversation
+CIAEO2: Oui. <E1: Enfin, bébé, quoi, enfin, petite, quoi.> Oui, petite fille.
+CIAEO2: Malheureusement non.
+CIAEO2: Bon, à l'école, j'ai, appris l'anglais, mais.
+CIAEO2: Bon, j'ai appris l'allemand, mais là, bon, pas grand chose hein, est resté.
+CIAEO2: Et, bon j'aurais appr/,
+CIAEO2: j'aurais aimé apprendre l'ethnie de mes parents parce que eux deux, ils sont de la même ethnie.
+CIAEO2: Mais, j'ai pas eu cette chance là hein. <E1: Hum.>
+CIAEO2: Et je <E1: (inaudible).> comprends même pas.
+CIAEO2: Oui, je vais au village, mais je comprends pas, je reste pas assez de temps.
+CIAEO2: Je reste, si c'est trop, un mois. <E1: Ah, oui.>
+CIAEO2: Et, bon c'est ça un peu.
+CIAEO2: Euh, abidji. <E1: Abidji, hein.>
+CIAEO2: Oui. C'est vrai, bon, je pense que c'est, c'est vrai, ce sont les parents.
+CIAEO2: Parce que si ils voulaient que, qu'on comprenne, ils auraient pu nous parler abidji.
+CIAEO2: Non, non.
+CIAEO2G: Non, mais, généralement, je ne parle pas avec les patients, hein. <E1: Ah, c'est ça aussi.>
+CIAEO2: parce qu'ils voulaient que chacune s'efforce de parler le français <E1: Ah, oui.>.
+CIAEO2: Le français <E1: Quelqu'un qui t'a marqué, bon.>
+CIAEO2: Hum (hésitation).
+CIAEO2: Bon, par rapport à mes parents, je pense que la manière dont je parle,
+
+newConversation
+E1: Alors, quelles langues tu parles?
+E1: C'est-à-dire, tu vas essayer d'expliquer dans quelle langue tu as appris à parler,
+E1: est-ce que c'est le français,
+CIANK1G: Oui, c'est le français. <E1: est-ce que c'est une autre langue>.
+E1: C'est le français? <CIANK1G: Ouais.> Bon, mais à part le français, est-ce que tu connais d'autres langues?
+CIANK1G: Bon, ma langue maternelle, c'est le guéré <E1: Oui.>,
+CIANK1G: mais, je connais, je connais pas trop les paroles.
+CIANK1G: Mais quand on me parle, je comprends.
+E1: Tu peux comprendre? <CIANK1G: Ouais.> D'accord.
+CIANK1G: Ensuite, ma langue paternelle, c'est le sénoufo, <E1: Ouais.>
+CIANK1G: mais là, je comprends (rire) absolument rien, hein <E1: Oui.>. (rire).
+E1: Et, comment ça se fait que tu ne com/ tu ne comprennes rien? Tu n'as pas?
+CIANK1G: Bon, à la maison, quand on vivait avec papa et maman, on parlait, que le français <E1: Oui.>.
+CIANK1G: Bon, quand les oncles arrivent du village, le vieux
+CIANK1G: ils se mettent dans un coin et puis,
+CIANK1G: ils parlent le sénoufo entre eux là-bas<E1: C'est ça.>.
+CIANK1G: On n'a pas eu la chance d'aller au village aussi, donc <E1: Ah, d'accord.>.
+(silence)
+E1: Et le guéré? Comment ça se fait que ce soit un peu, un peu?
+CIANK1G: Bon, le guéré, j'étais plus, attaché à ma mère, donc (rire) <E1: D'accord.>.
+
+newConversation
+CIASB1G: En quatre-vingt, j'ai commencé mon CP1, <E1: Oui, d'accord.>
+CIASB1G: à Jacqueville.
+CIASB1G: Et en quatre-vingt-huit,
+CIASB1G: en quatre-vingt-huit, j'ai fait mon cycle, euh, secondaire, c'est-à-dire de sixième,
+CIASB1G: à la classe de troisième, à Jacqueville. <E1: Ouais.>
+CIASB1G: C'est-à-dire troisième et. <E1: Hum hum.> Et jusqu'à troisième,
+CIASB1G: ça veut dire trois ans de formation au lycée professionnel de Man.
+E1: OK. D'accord. <CIASB1G: Voilà.> Et donc, quelles sont, quelles études tu as fait à Man, exactement, tu peux dire? (bébé pleure)
+CIASB1G: C'est, concernant, chose, comment on appelle ça, les (bébé pleure)
+CIASB1G: euh, chose, euh, comment, l'électro-technique. <E1: Hum.> (bébé pleure)
+CIASB1G: l'électro-technique. <E1: D'accord.> (bébé pleure)
+E1: Avec un diplôme à, à la sortie? (bébé pleure)
+CIASB1G: Oui, avec un diplôme à la sortie (bébé pleure).
+E1: Quel diplôme? (bébé pleure)
+CIASB1G: C'est un, un B/ un, un BE/ BT (bébé pleure).
+E1: BT, hein? <CIASB1G: Ouais.>
+CIASB1G: BT. Diplôme, euh, technique <E1: Hum (oui). Brevet, brevet > Euh, Brevet technique <E1: Hum (oui).>. (bébé pleure)
+E1: D'accord. Et après ça, tu n'as pas fait d'autres études? <CIASB1G: Non non.> (bébé pleure)
+CIASB1G: Même j'ai géré un maquis d'une, de, de, de, d'une tante,
+CIASB1G: contrat G/ GM(ZeEm)/ GMA (Zema), euh, Grands Moulin d'Abidjan, <E1: Ah, si.> oui.
+
+newConversation
+CIASN1: Euh, mille neuf cent cinquante six.
+CIASN1: Là, je n'ai pas le jour et la date, euh, exacte.
+E2: Votre lieu de naissance? <CIASN1: Parce que là.>
+CIASN1: Il y/ il y a une origine aussi, hein. Je peux l'expliquer aussi.
+CIASN1: Parce que vous savez chez nous ici, c'est compliqué, là-bas. Moi je suis née au village.
+CIASN1: Et, ma maman était la seu/ étant la seule femme de la famille.
+CIASN1: Et quand je suis née on a dit: 'ah, voilà, tiens,  il y a une deuxième femme.
+CIASN1: Et ça c'est notre princesse, ça.'
+CIASN1: Et, ils ont commencé à me doter. Donc, ils n'avaient même pas une idée de me mettre à l'école.
+CIASN1: Donc, j'étais vraiment vouée à rester au village et, au bon soin de tout le monde.
+CIASN1: Et comme, euh, le petit frère à ma maman a été scolarisé, il était fonctionnaire.
+CIASN1: Et là, euh, c'est lui qui est venu me récupérer un matin là, 'Attendez, je vais prendre ma nièce'.
+CIASN1: 'Et puis, bon, elle va rester un moment avec moi'.
+CIASN1: Et puis, dans ça, comme il était fonctionnaire, il a été affecté et il m'a scolarisée.
+CIASN1: Parce que, c'est là qu'il a fait ma pièce sans le consentement des parents d'abord (bruits de micro).
+CIASN1: C'est là. Euh, chez nous c'est le matriarcat. Donc, côté maman, ils ont de la priorité sur tout.
+E2: Euh, jusqu'à ce jour, vos domiciles successifs? C'est-à-dire <CIASN1: Hum.> depuis que vous êtes née jusqu'à maintenant quels sont <CIASN1: Oui.> les lieux, les quartiers, les communes que vous avez habités jusqu'à aujourd'hui. 
+CIASN1: On était voisin du Secrétaire Général de Préfecture.
+E2: Donc, en quatre-vingt-dix-sept <CIASN1: Voilà.>. Vous avez quitté <CIASN1: Voilà.> Adzopé, Agou, <CIASN1: Voilà.> en quatre-vingt-dix-sept pour?
+E2: Donc, euh, <CIASN1: un an encore,> deux mille deux? <CIASN1: Je suis partie sur, euh, Touleupleu.>
+
+newConversation
+CIAVD1: Mais, donc, j'étais avec mes parents, hein?
+E2: Oui, oui, c'est ça. <CIAVD1: C'est ça?>
+CIAVD1: Bon, je suis née à Daloa.
+CIAVD1: Après, nous sommes allés au Burkina,
+CIAVD1: à Dédougou.
+CIAVD1: De là-bas, on est parti à Bamako,
+CIAVD1: Bamako, Sikasso,
+CIAVD1: Sikasso, Kolondiaba. Là, c'est au Mali, hein.
+CIAVD1: Ensuite, euh, Bamako.
+CIAVD1: Et après, quand je me suis mariée, je me suis retrouvée à Abidjan.
+E2: A Bamako, et ainsi de suite, c'est tout. <CIAVD1: Hum.>
+CIAVD1: (rires) Alors là.
+CIAVD1: Ca va ête un peu difficile parce que moi, bon, par exemple, quand, euh,
+CIAVD1: euh, tu es bébé, tu as deux ans, tu as trois ans,
+CIAVD1: bon, je ne peux pas. Peut-être, euh.
+CIAVD1: Par exemple, moi, je suis née à Daloa.
+CIAVD1: Mon frère est né à Danané.
+CIAVD1: Il y a peut-être deux ans entre nous.
+CIAVD1: Et après ils sont partis à Duékué, je crois.
+CIAVD1: Peut-être qu'ils n'ont pas fait deux ans.
+
+freeConversations
+
+newConversation
+CIAIE1: C'est ça. Bon le village, euh.
+CIAIE1: Du, du, après, votre passage, euh, les, cinq premières années, les cinq années qui ont suivi, les cinq années qui ont suivi, 
+CIAIE1: En tout cas c'était, c'était très bien, les gens, ont suivi les conseils,  <E1: Ah bon.> la propreté et tout ça.
+CIAIE1: Et puis après, bon les choses ont commencé à, à se détériorer et tout, bon.
+CIAIE1: Mon papa, il faisait le, la police un peu, <E1: Oui.> pour que les gens
+CIAIE1: Et elles ont commencé à mettre vraiment oui un peu d'ordre
+CIAIE1: Bon, c'est, depuis le dix-neuf septembre, nous on a été très surpris d'ailleurs,
+CIAIE1: dans la nuit, très tard,
+CIAIE1: on a un ami qui nous appelle. Et puis il nous dit 'Mais, vous n'entendez pas du bruit?'
+CIAIE1: On dit 'Non'.
+CIAIE1: Il dit 'Vous n'entendez pas des tirs?'. On dit 'Non'.
+CIAIE1: Mon mari se lève, il dit 'Non'.
+CIAIE1: Il a dit 'Non, réveillez-vous,
+CIAIE1: et sortez, vous allez entendre'. <E1: Ah, oui, hein.>
+CIAIE1: Et puis, on s'est levé, on est venu sur la terrasse.
+CIAIE1: Et, effectivement, on a entendu des coups, des tirs, des tirs, des tirs, <E1: Ah, oui, hein.>
+CIAIE1: Et après, le téléphone a sonné, n'a pas arrêté de sonner.
+CIAIE1: 'Ah, c'est, c'est grave' et, 'il y a des gens qui sont morts, on a tiré, on a tué.'
+CIAIE1: 'Et, il y a des chars partout.'
+CIAIE1: 'Il y a même des morts'.
+
+newConversation
+CIAPA1: Je sais, je, je comprends pas. Bon, c'est que, aussi, il y a beaucoup de, de choses qui manquent au C.H.U.
+CIAPA1: Il y avait beaucoup de choses. Chaque fois on fermait, peut-être que ça qui les décourageait aussi. <E1: Ah, c'est ça.>
+CIAPA1: Mais, les autres C/ CHU aussi c'est pareil, hein. Donc, je sais pas, hum <E1: (inaudible) ils vont.> Je sais pas où ils vont.
+CIAPA1: Peut-être il y a moins de naissances, <E1: Hum.> malgré le couvre-feu. (rires)
+CIAPA1: Peut-être qu'il y a moins de naissance, je sais pas. Mais on a remarqué qu'il y avait moins de malades.
+CIAPA1: Mais c'est que les gens sont devenus très pauvres.
+CIAPA1: Donc, euh. <E1: C'est ça, hein.> un/ une hospitalisation, ça coûte cher, donc il y a beaucoup de gens qui se soignent, euh, comme ils peuvent.
+CIAPA1: De manière traditionnelle, je crois ça, ça explique le nombre de malades.
+CIAPA1: Oui, des cas compliqués.
+E1: Tu as pas un à me raconter? (??) revenait toujours avec des cas, <CIAPA1: (rires)> à s/ à la PMI de Treichville là. Mais, elle travaille plus là-bas maintenant.
+CIAPA1: Bon, les, ce qu'il faut c'est les mamans, quand on leur explique les choses, elles ont d/ des habitudes.
+CIAPA1: Par exemple, faire les lavements évacuateurs aux enfants. <E1: Ah, c'est ça.>
+CIAPA1: Donc, quand on leur dit de pas faire.
+CIAPA1: Hier, par exemple, il y a une dame qui est venu à la consultation avec un nouveau-né,
+CIAPA1: enfin, il avait quand-même vingt-sept jours. <E1: Oui.>
+CIAPA1: Il a fait des selles sanglantes. Donc, on lui demande si elle a fait un lavement. Elle dit 'Oui'.
+CIAPA1: Elle dit 'mais c'est pas grave, c'est avec (??), et puis j'ai toujours fait ça à mes en/'. Je dis 'mais justement,
+CIAPA1: chaque enfant a ses, sa, son, sa résistance,
+CIAPA1: sa, son, <E1: Donc, elle a (??) l'enfant, alors?>
+CIAPA1: Oui. Donc, enf/ enfin, on sait pas. On a fait tous les examens pour voir s'il y avait pas une compl/ une invagination.
+
+newConversation
+CIAAK1: Traditionnel? Le mariage tradi? <E1: traditionnel.> Hum.
+CIAAK1: Bon, ça, paraît que quelquefois,
+CIAAK1: Les parents, bon, moi, j'ai entendu souvent dans les contes au village,
+CIAAK1: dans <E1: Ah, oui.> la (incertain) parole de mes, ma grand mère que quelq/ quelquefois ils s'en vont demander la main, <E1: Oui.>
+CIAAK1: Comme on a dit au, hum.
+CIAAK1: aux parents, de la fille,
+CIAAK1: Puis après ils vont (?) présenter,
+CIAAK1: si l/ a famille est d'accord,
+CIAAK1: Maintenant, tu, maintenant (na~) tu restes chez toi.
+CIAAK1: Le jour du mariage, ils s'en vont ch/, te chercher, et <E1: Ah, oui.>.
+CIAAK1: Puis tu vas, vous partez dans un coin, bon i/
+CIAAK1: il y a un qui se présente, bon (dZo~),
+CIAAK1: Je sais pas si c'est, le chef du village, <E1: Hum.>
+CIAAK1: Ca se fait devant lui, il essaye de voir vraiment,
+CIAAK1: si vous voulez rester ensemble,
+CIAAK1: si vous avez,
+CIAAK1: il essaye <E1: Ah, oui.> de vous donner des conseils aussi.
+E1: Maintenant (na~), est-ce/, est-ce que les parents donnent quelque chose? <CIAAK1: Oui.> Pour les parents de la mariée?
+CIAAK1: Oui, ils donnent quelque chose.
+CIAAK1: On donne ce que tu as. <E1: (inaudible)>
+
+newConversation
+CIAFK1: Bon, ça a dû être suspendu.
+CIAFK1: Sinon, on a, on voulait, on a fait un Colloque.
+CIAFK1: Oui, oui, parce que la plupart des textes, euh, ivoiriens
+CIAFK1: ont, sont, sont fortement inspirés, hein, du Code Civil français.
+CIAFK1: la permanence du Code Civil Napoléon dans nos lois, hein.
+CIAFK1: Est-ce que, euh, est-ce que c'est, c'est, c'est toujours permanent?
+CIAFK1: Comment ça a été reçu? <E1: Ouais.>
+CIAFK1: Est-ce que il y a des, des résistances au plan culturel ? <E1: C'est ça.>
+CIAFK1: Qu'est-ce qu'il faut faire pour, euh <E1: Et alors, qu'est-ce que vous en pensez?>.
+CIAFK1:  Bon, on a pas encore fait le sé/ le Colloque. C'est-à-dire qu'on a commencé,
+CIAFK1: On a fait la cérémonie d'ouverture.
+CIAFK1: Et, on a été délogés par la FESCI. <E1: Ah, c'est dommage.>
+CIAFK1: que, (que/qu'eux) ils considèrent comme étant une, euh, faisant partie de la rébellion
+CIAFK1: Ils ont estimés que c'était, euh, une provocation, hein, de faire venir. Bon.
+CIAFK1: On va faire ça quelque part, un jour, euh.
+CIAFK1: Oui, parce qu'il fallait voir le Droit de la famille,
+CIAFK1: le Droit des Obligations, le Droit des Affaires, le Droit Public, et, et cetera
+CIAFK1: On voulait même qu'un <E1: (inaudible)>. On voulait même qu'un sociologue, euh. Oui, le Droit des Biens.
+CIAFK1: Donc, euh, il y avait quelqu'un qui voulait faire sur le Droit des Biens.
+CIAFK1: Et, puis bon, euh, est-ce que, ça a été bien reçu, bon.
+
+newConversation
+CIAEO1:  Tchè (tSE), on sent ça.
+CIAEO1: Ce qui est sûr, son cours, bon, c'est bien chic, quoi, mais,
+CIAEO1:  elle crie crie trop trop sur les gens, souvent,
+CIAEO1: C'est, elle, c'est pour s'amuser un peu, quoi.
+CIAEO1: Oh, (??) Moi aussi je connais pas aussi. Elle fait toujours les choses comme ça quoi. Toujours elle connaît pas.
+CIAAK1: Bon faut expliquer un peu. <CIAEO1: Bon.>
+CIAEO1: Hum, il s'appelle Olivier Pierre.
+CIAEO1: Maintenant, le troisième, lui, il est un peu vivace, quoi.
+CIAEO1: Lui, il est beaucoup choc choc, non. Il a ses camarades. Ils sont troi/ il a trois camarades.
+CIAEO1: Maintenant, il y a un qui s'appelle Etienne, puis il y a un qui s'appelle Momo.
+CIAEO1: Eux tous ont le même âge. Maintenant, Momo, lui vraiment, c'est un (tururu).
+CIAEO1: Maintenant tous ses amis, tous ses voi/ tous ses amis sont, sont en sixième.
+CIAEO1: Donc, quand ils se regroupent comme ça, quand c'é/ quand mes frères étaient  en, étaient au C.M.2.
+CIAEO1: Ah, Momo, je vais, je vais lire une phrase, tu répètes après moi'. Il dit: 'Oui'.
+CIAEO1: Et puis on dit, euh, sa maman dit, 'Mariam joue au bord d/ au bord du marigot'.
+CIAEO1: 'Mariam joue au bord de la marigot'. (rires)
+CIAEO1: Souvent, donc, donc, c'est comme ça, quoi.
+CIAEO1: On lui dit de compter de un jusqu'à cinquante, il compte jusqu'à.
+CIAEO1: Maintenant, quand il arrive à quarante-neuf comme ça, il fait ça 'cinquante dix' (??) je suis fatigué'. (rires)
+CIAAK1: Comment est l'ambiance, <CIAEO1:  Bon.> de la fête de génération? Ou bien le théâtre, <CIAEO1: Théâtre.> ou bien des (???) comme ça.
+
+newConversation
+CIATK1: Ca c'est, c'est un peu le laisser aller qui a conduit à ça.
+CIATK1: Maintenant, on a pensé que avec la transition militaire, les choses allaient être, euh, prises en main,
+CIATK1: mais malheureusement, on a été déçu, avec la transition militaire.
+CIATK1: Et les choses sont restées en l'état.
+CIATK1: Donc, quand c'est resté en l'état, la guerre est venue.
+CIATK1: La personne qui veut voir clair dedans,
+CIATK1: Gbagbo est venu, il veut voir clair, on lui dit: 'ah, non non, toi, faut laisser.
+CIATK1: faut laisser les choses comme ça y est là.
+CIATK1: faut pas toucher.'
+CIATK1: Et c'est le 'faut pas toucher' qui nous a valu la guerre.
+CIATK1: OK?
+CIATK1: Alors, faut pas toucher,
+CIATK1: si lui, il veut, faire la politique de l'autruche, 
+CIATK1: il va continuer exactement comme avant, et il aura la paix.
+CIATK1: Ou, il se met dans sa logique, et il sera combattu, jusqu'à la fin.
+CIATK1: Parce que il arrange pas.
+CIATK1: Hein? Le mot c'est, 'tu m'arranges pas'.
+E2: D'ailleurs, il y a une formule célèbre: 'si tu ne m'arranges pas, faut pas me déranger'. <CIATK1: Déranger.>
+CIATK1: C'est ça.
+CIATK1: Donc, c'est ça, hein.
+
+newConversation
+
+newConversation
+CIAFO1L: Bon, à Bouaké, bon, la vie était
+CIAFO1L: la vie d'un étudiant à Bouaké, quoi (silence).
+CIAFO1L: Je vais prendre mon cas parce que les cas sont légion. Moi, mon cas, bon, la vie était bien.
+CIAFO1L: Parce que à Bouaké, je,
+CIAFO1L: je devais habiter chez un tuteur.
+CIAFO1L: Mais mon tuteur <E2: (inaudible)>. Au quartier Commerce,
+CIAFO1L: à côté de la BCAO.
+CIAFO1L: Mais je savais que mon tuteur connaissait bien,
+CIAFO1L: les, les étudiants en médecine et que il y a un étudiant en médecine qui louait une maison en ville,
+CIAFO1L: donc, sa chambre était vide.
+CIAFO1L: Une chambre individuelle. Donc, il m'a dit, bon (claquement de mains).
+CIAFO1L: Si tu estimes que tu veux pas vivre ici avec moi, tout ça, tu es un étudiant, tu es un grand garçon,
+CIAFO1L: (claquement de mains) j'ai une chambre à te proposer.
+CIAFO1L: Et c'est comme ça, il m'a proposé la chambre. Je suis allé vivre là-bas.
+CIAFO1L: Bon, à la fin du mois, on m'envoie mon argent,
+CIAFO1L: Maintenant, bon (silence),
+CIAFO1L: Pour les cours, les TD, tout ça, puisque je suis sur l/, j'étais au Campus Un <E2: Oui.>,
+CIAFO1L: c'est là-bas la fac de sciences éco est, donc il y avait, vraiment pas de problème.
+CIAFO1L: Maintenant, l'argent qu'on m'envoyait, bon,
+CIAFO1L: Une fois que tu enlèves l'argent pour manger, pour truc, on est tenté maintenant d'aller en ville,
+
+newConversation
+CIANA1L: Enfin, c'est le manque de moyens des pays sous-développés qui fait que nous sommes beaucoup corrompus, quoi.
+E2: OK. Euh, un petit mot là, puisqu'on parle de la corruption,
+E2: Tu as une fois vécu une situation où tu as été amené à corrompre ou, euh, on t'a incité à la corruption?
+E2: Est-ce que tu peux nous raconter s'il y a vraiment une histoire.
+CIANA1L: Oui <E2: (inaudible)>, parce que voilà un jour que je suis allé à la Justice,
+CIANA1L: et,
+(silence)
+CIANA1G: en arrivant, il faut d'abord faire un rang.
+CIANA1L: Mais, pendant que nous sommes en train de faire un rang,
+CIANA1L: il y a d'autres qui s'infiltrent.
+CIANA1L: C'est-à-dire ils ont des connaissances à l'intérieur.
+CIANA1L: Et ils vont,
+CIANA1L: moyennant quelque chose, on les laisse entrer avant les autres.
+(silence)
+CIANA1L: Donc, bon, je me suis dit, 'bon, pourquoi ne pas essayer'.
+CIANA1L: Moi même, j'étais énervé, déjà, parce que
+CIANA1L: on m'avait donné, j'ai déposé mon papier, mais on m'avait donné un délai qui ne m'arrangeait pas.
+(silence)
+CIANA1L: Et je suis allé m'assoir quelque part.
+CIANA1L: J'ai commençé à réfléchir, et il y a un jeune homme qui est venu me trouver.
+
+newConversation
+CIAEO2: (bruits extérieurs) Monsieur, où on peut avoir les, les, les résultats de. (inaudible Comment on dit même).  Nous par exemple, nous les étudiants est-ce qu'on peut avoir les résultats de vos recherches avec les, les (?? tradi) là?.
+CIASF1: Bon, disons que, euh.
+CIASF1: Euh, jusqu'à un certain moment, moi personnellement, avec euh, ma formation de pharmacologue et de phytofibrochimiste, j'étais braqué dans l'optique occidentale.
+CIASF1: C'est-à-dire, euh, faut, faut évaluer, faut isoler, faut identifier avant de, bon.
+CIASF1: Tu vois ça, ça fait que on a beaucoup de, de résultats de tests (incertain) qui sont dans les tiroirs.
+CIASF1: Pendant que les autres, bon, allaient directement au but.
+CIASF1: Bon, ils ont la recette ils s'occupent, ils s'occupent/ préoccupent même pas de, d'isoler les, les mé/ les molécules, hein.
+CIASF1: Donc, ils s'en vont, s'en v/ euh, ils, ils font des tests préliminaires,
+CIASF1: toxicité, et puis, euh, tolérance biologique.
+CIASF1: Et puis, quand c'est positif, ils essaient directement tout su/ sur l'homme.
+CIASF1: Puisque les tradipraticiens l'utilisaient déjà sur l'homme.
+CIASF1: Donc, c'est l'option que, que, qu'on a prise maintenant avec un certain nombre de collègues, on a formé un, une association.
+CIASF1: On va peut-être sortir les premiers produits, dans moins d'un an.
+CIAEO2: Donc, maintenant, on va vendre ça en officine?
+CIASF1: Bon (très fort) (inaudible).
+CIASF1: Bon, il y a un programme à la, à la Direction de la Pharmacie et du Médicament.
+CIASF1: Ils disent qu'il y a pas de loi, concernant les, produits à base de plantes.
+CIASF1: Donc, ce qui fait que, pour, donner des, des agréments, des visas, c'est, c'est un peu, du hasard, quoi.
+CIAEO2: Est-ce qu'on doit avoir le système? Il paraît qu'au Ghana, en pharmacie, il y a tout, il y a de tout, il y a des médicaments européens, il y a des médicaments traditionnels,
+CIAEO2: (bruits) Donc, je demandais si, nous on, on, on pouvait avoir le système du Ghana?
+
+newConversation
+E2: Et, comment vous avez vécu, euh, ici, les événements, euh, de novembre?
+CIANK1L: Bon, c'était difficile, hein.
+E2: Comment ça? Explique un peu, toi, comment les informations te sont parvenues?
+CIANK1L: Bon, comme. On était tous à la boutique et puis ils ont, on a dit qu'ils avaient attaqué.
+(silence)
+(silence)
+CIANK1L: c'était horrible, hein.
+E2: (silence) Comment ça?
+CIANK1L: deux heures du matin, deux heures, trois heures.
+CIANK1L: Vous imaginez, on rentre à dix-huit heures, on sort plus (rires).
+CIANK1L: Et puis tu trouves le sommeil.
+(silence)
+E2: Mais, euh, dans certains quartiers, les gens se retrouvent, hein, même si il y a un couvre-feu.
+CIANK1L: Oui, a/.
+CIANK1L: Au quartier ici même, il y a les, les grands frères faisaient ça.
+E2: Eux, ils se retrouvaient où?
+CIANK1L: Il y a un maquis à côté de la pharmacie,
+CIANK1L: le Forum.
+CIANK1L: A partir de dix-huit heures, ils montent,
+CIANK1L: ils s'enferment dans le maquis jusqu'au matin.
+
+newConversation
+CIASB1L: Un Ivoirien même peut pas prendre une, euh, une arme contre son frère ivoirien.
+CIASB1L: Parce que avec ces alliances, aujourd'hui, qui prévaut,
+CIASB1L: par ci par là, les, les alliances, je pense que
+CIASB1L: aujoud'hui, quand tu prends un Sénoufo qui a f/, qui a fait alliance avec un Yacouba,
+CIASB1L: ou bien un Gouro. Donc, tu penses que,
+CIASB1L: parce que l'alliance, c'est s'efforcer ne pas verser le sang de son frère donc,
+CIASB1L: tu vois que ce gars, si il fait ça, ça veut dire, il, il ch/,
+CIASB1L: il, il a pas respecté l'alliance comme le dit le coutûme.
+CIASB1L: Donc, c'est ce qui fait que, souvent même, nous avons peur.
+CIASB1L: Certes, on croit en Dieu mais, nos, nos coutûmes là,
+CIASB1L: on les respecte (toujours) quand même hein.
+CIASB1L: Aujourd'hui c'est ça.
+CIASB1L: Même si, je peux prendre l'exemple, comme, euh, les Asiatiques,
+E1: Donc, euh, on parlait de la situation du pays <CIASB1L: Ouais ouais.> hum.
+CIASB1L: Que, vraiment, aujourd'hui,
+CIASB1L: (??????)
+CIASB1L: On pourrait dire aussi que, euh,
+CIASB1L: aujourd'hui, si, beaucoup d'hommes nous, bon.
+CIASB1L: Regarde, nous autres nous soutenons notre Président,
+CIASB1L: Moi je suis pas du parti du Président, hein, je suis pas FPI.
+
+newConversation
+E1: Et qu'e/ Il y a des méthodes pour compter ? <CIASN1: Il y a des mé/> pour apprendre à compter, non ? <CIASN1: Voilà.>.
+CIASN1: Il y a des méthodes aussi pour compter.
+CIASN1: Et ces méthodes pour compter, on a commencé par, tout simplement nos matières, nos, matériels, euh, naturels. <E1: Oui.> 
+CIASN1: Nous, prenons les, capsules. <E1: Oui.>
+CIASN1: Devant les bars, il y a plein. Les gens boivent tellement <E1: Oui.> on a plein de capsules. 
+CIASN1: Dès le premier jour, de rentrée de classe on demande aux enfants de nous apporter, des capsules <E1: Oui.>,
+CIASN1: des graines <E1: Ah oui.>. On sait que maman va préparer des graines. Donc, on va jeter.
+CIASN1: Donc, on nous apporte des graines, des capsules,
+CIASN1: et puis, bon, des cailloux. <E1: Voilà.> Tout simplement, <E1: Des petits cailloux .> des cailloux, des petits cailloux. 
+CIASN1: On remplit des cartons. <E1: Ah oui.>
+CIASN1: Et, avec ce matériel, on fait un mélange. <E1: Hum.>
+CIASN1: Et, pendant les heures de mathématique, on fait un mélange de ces trois.
+CIASN1: Et puis on demande à l'enfant de faire un tri.
+CIASN1: Il commence à faire des tris.
+E1: A Bouaké, on entend quand même, non? <CIASN1: Bon, je n'ai pas trop.> Mais ça fait longtemps que tu n'es pas allée, non? <CIASN1: Voilà.>
+E1: Ce qui fait que <CIASN1: Oui.> Ce qui peut faire que ça se propage aussi, c'est la chanson, et puis la télévision, non? <CIASN1: Oui.>
+E1: Parce que <CIASN1: Voilà.> dans la chanson, hein, <CIASN1: Oui. Oui.> il y en a beaucoup, hein? <CIASN1: Oui, c'est la chanson.>
+E1: Oui, c'est ça. <CIASN1: Et puis on passe.> Donc toi, tu n'es pas d'accord avec ce genre de choses, hein. <CIASN1: Non, non.>
+E1: Donc, il ne sait pas faire le passage, <CIASN1: Jamais.> au français, <CIASN1: Voilà.> quand il est à l'écrit, quoi. <CIASN1: Voilà.>.
+E1: il faudrait <CIASN1: Voilà.> qu'ils puissent au moins<CIASN1: Voilà. Transformer.> faire le passage. <CIASN1: Le passage, et puis la différence.>
+
+newConversation
+CIAVD1: Quand je partais vraiment on était stressé, ça n'allait pas du tout, <E1: Ah, bon.> c'était trop dur ici. <E1: Ah, oui.>
+CIAVD1: Mais moi, j'ai profité, j'étais très contente, parce que.
+CIAVD1: Mais, qu'est-ce qui arrive, aussi? A Bamako, bon.
+CIAVD1: Voir Bamako qui change toujours, vraiment ça évolue.
+E1: Ca change beaucoup, non? <CIAVD1: Beaucoup,> Ah, mais ça fait plaisir, non? <CIAVD1: les gens construisent, les gens construisent.>
+CIAVD1: Mais tu ne te retrouves plus à Bamako, hein. Moi. <E1: Toi même, tu/>
+CIAVD1: Non, non. <E1: (???) plus les rues.> Et puis, bon, c'est que j'étais étonnée parce que (clic).
+CIAVD1: Un jour j'ai dit ça à ma soeur, j'ai dit 'mais tous ceux qui passent à la télé, je ne vois même pas mes promotionnaires et tout ça?'
+CIAVD1: Elle a ri, elle dit 'Mais, vous, c'est fini, tes promotionnaires sont à la retraite, ou bien quoi, tu vas plus les voir à la télé (rires).
+CIAVD1: Et je me suis rendu compte d'une chose aussi.
+CIAVD1: Par exemple, quand je vais à la messe à Bamako, <E1: Hum hum.>
+CIAVD1: Je vais à la cathédrale, après la messe, je me rends compte que je ne connais même plus les gens.
+CIAVD1: Tu es là, <E1: Ah, mais c'est normal.> tu ne vois plus, tes anc/ tes connaissances et tout.
+CIAVD1: J'ai dit 'Mais c'est vrai ou c'est parce que depuis.
+CIAVD1: Moi, je suis arrivée ici en décembre deux mille, euh, en décembre soixante-douze. <E1: Oui.>
+E1: Soixante-douze, hein? <CIAVD1: Oui.> Donc, tu vois, le temps a p/ a passé. <CIAVD1: Décembre soixante-douze, je. > 
+CIAVD1: Donc, euh, vraiment
+CIAVD1: Tu t'en vas juste dix jours, tu reviens <E1: Ah, tu n'as pas le temps de.> tu peux pas.
+E1: Donc, là, en deux mille trois, tu as fait trois mois là-bas? <CIAVD1: Trois mois.> Plein temps? <CIAVD1: Hum hum.> Sans bouger?
+CIAVD1: qui ont fait des vocabulaires, scientifiques même en dioula, tout ça. <CIAVD1: Tu vois.>
