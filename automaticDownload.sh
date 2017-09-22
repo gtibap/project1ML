@@ -2,6 +2,8 @@
 # print date, just for test
 date
 
+# cities
+# Abidjan AixMarseille AveyronnaisAParis Bamako Biarritz Brecey Brunoy BurkinaFaso Cameroun Chlef Dijon Domfrontais Douzens Gembloux Geneve Grenoble IleDeLaReunion Lacaune Liege Lyon MarseilleCentreVille Nantes Neuchatel Nyon Ogeviller ParisCentreVille PeaceRiver PuteauxCourbevoie RCABangui Roanne Rodez Saguenay SallesCuran SenegalDakar Toulouse Tournai TroisRivieres UniversiteLavalQuebec Vendee
 
 # First we need login to the dataset. For this we use the next code just once with my user and password
 ####################
@@ -135,5 +137,18 @@ date
 #		
 #	done
 #done
+####################
+# City Chlef
+mkdir data/Chlef
+for city in data/Chlef
+do
+	for locu in acaab1 acaana1 acabs1 acafkeo1 acakb1 acakm1 acama1 acamk1 acamk2 acanm1 acanm2 acazb1 
+	do
+		# save guided (g) and free (l) dialogues 
+		wget --load-cookies cookies.txt 'http://research.projet-pfc.net/transcription/export-csv.php?q=@locuteur%20'$locu'%20@type%20g' -O $city/$locu'g'.php
+		wget --load-cookies cookies.txt 'http://research.projet-pfc.net/transcription/export-csv.php?q=@locuteur%20'$locu'%20@type%20l' -O $city/$locu'l'.php
+		
+	done
+done
 ####################
 
